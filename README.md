@@ -15,17 +15,17 @@
 
 ## Dependencies :
         1 - keyboard
-	2 - python3
+2 - python3
 
 ## Systemas Operativos :
         1 - Read Os
-	2 - Arch Linux
+2 - Arch Linux
         3 - Kali Linux
         4 - Parrot
 
 ## Descarga/Configura/Uso:
     1? - Descarga de herramineta de github
-         git clone https://github.com/M4sc3r4n0/Evil-Droid.git
+         git clone https://github.com/error404-notfound/spammerpy.git
 
     2? - Descarga las dependencias
          pip install -r requeriments.txt
