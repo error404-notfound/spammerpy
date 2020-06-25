@@ -15,11 +15,11 @@
 
 ## Dependencies :
         1 - keyboard
-    2 - python3
+     2 - python3
 
 ## Systemas Operativos :
         1 - Read Os
-   2 - Arch Linux
+     2 - Arch Linux
         3 - Kali Linux
         4 - Parrot
 
